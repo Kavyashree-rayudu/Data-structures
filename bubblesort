@@ -31,3 +31,22 @@ void main()
     for(i=0;i<size;i++)
     printf("\t %d",arr[i]);
 }
+
+
+/*
+Output:
+Enter the size of arrray: 5
+Enter the elements of array: 
+ Enter the 1 element:  9
+ Enter the 2 element:  8
+ Enter the 3 element:  3
+ Enter the 4 element:  6
+ Enter the 5 element:  7
+ Array in 1 Iteration	 9	 8	 3	 6	 7
+ Array in 2 Iteration	 8	 3	 6	 7	 9
+ Array in 3 Iteration	 3	 6	 7	 8	 9
+ Array in 4 Iteration	 3	 6	 7	 8	 9
+ Array in 5 Iteration	 3	 6	 7	 8	 9
+ Sorted array is ---------
+	 3	 6	 7	 8	 9
+     */

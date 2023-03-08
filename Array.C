@@ -28,3 +28,18 @@ void main()
     for(i=0;i<size;i++)
     printf("\t %d",arr[i]);
 }
+
+
+/*
+Output:
+/tmp/0rFdIL4LAG.o
+Enter the size of arrray: 5
+Enter the elements of array: 
+ Enter the 1 element:  7
+ Enter the 2 element:  9
+ Enter the 3 element:  6
+ Enter the 4 element:  5
+ Enter the 5 element:  2
+ Sorted array is ---------
+	 2	 5	 6	 7	 9
+     /*
